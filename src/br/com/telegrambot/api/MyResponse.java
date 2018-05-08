@@ -21,6 +21,7 @@ public class MyResponse {
 		respMap.put("OI", "Oii");
 		respMap.put("Beleza?", "de boa");
 		respMap.put("teste", "testando ... 123");
+		respMap.put("flw", "tchau");
 		
 	}
 	
